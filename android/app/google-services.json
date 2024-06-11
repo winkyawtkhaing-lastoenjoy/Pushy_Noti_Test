@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543079234262",
+    "project_id": "joy-noti",
+    "storage_bucket": "joy-noti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543079234262:android:c84e491485181cc5e2e777",
+        "android_client_info": {
+          "package_name": "com.example.joy_noti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxdksJOwBQpoyNu0i4cvoK6tIsf_ObN2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
